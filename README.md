@@ -1,2 +1,1 @@
-# AppNorgas
 Proyecto PIP-NORGAS
